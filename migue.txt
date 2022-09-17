@@ -4,3 +4,6 @@ y commits para ir modificando este texto.
 
 bueno en primer lugar realize el primer commit que consiste en el archivo original
 ahora vamos a hacer un nuevo commit con este nuevo parrafo.
+
+es demasido bueno hacer estos commits pero ahora vamos a pasar a hacer una rama de este 
+archivo para hacer mas modificaciones pero sin intervenir este archivo.
